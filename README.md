@@ -1,4 +1,7 @@
-# Account Security in Node.js
+# Account Security with Voice 
+### ⏱ 15 min build time 
+
+## Why build voice-based account security?
 
 Websites where users can sign up for an account typically use the email address as a unique identifier and a password as a security credential for users to sign in. At the same time, most websites ask users to add a verified phone number to their profile. Phone numbers are, in general, a better way to identify an account holder as a real person. They can also be used as a second authentication factor (2FA) or to restore access to a locked account.
 
