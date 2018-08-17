@@ -1,0 +1,14 @@
+{
+  "name": "node-messagebird-security-example",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "messagebird": "^2.1.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
